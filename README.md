@@ -11,7 +11,7 @@ Retention? / 4-Year Plan Web App
 |Name      |email      |role      |
 |----------|-----------|----------|
 |David Joplin|djoplin@asu.edu| |
-|Ahmad Kadado|ahmad.kadado@asu.edu| |
+|Ahmad Kadado|ahmad.kadado@asu.edu|Product Owner |
 |Olivia Sin|olivia.sin@asu.edu| |
 |Kevin Wesley|kevin.wesley@asu.edu| |
 |Diefei Yan|diefei.yan@asu.edu| |
