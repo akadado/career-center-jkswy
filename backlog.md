@@ -10,6 +10,15 @@ Backlog (in-Progress)
 - [ ] upcoming events list
 
 
+done
+
+- [x] User info: ASUrite, major, grad date, gender, age, email)
+- [x] 4-year plan: yearly checklist (what to do over the course of the year)
+- [x] Career Link
+- [x] SOS appointments link
+- [x] upcoming events list
+
+
 -
 Wishlist
 
